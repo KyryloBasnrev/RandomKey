@@ -1,0 +1,4 @@
+﻿  MainWind.cpp
+D:\C++_Proj\RandomGeneratorKey\RandomGeneratorKey\MainWind.h(104,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MainWind.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  RandomGeneratorKey.vcxproj -> D:\C++_Proj\RandomGeneratorKey\x64\Debug\RandomGeneratorKey.exe

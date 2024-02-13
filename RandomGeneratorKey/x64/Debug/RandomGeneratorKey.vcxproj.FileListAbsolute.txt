@@ -1,0 +1,3 @@
+D:\C++_Proj\RandomGeneratorKey\RandomGeneratorKey\x64\Debug\RandomGeneratorKey.vcxproj.AssemblyReference.cache
+D:\C++_Proj\RandomGeneratorKey\RandomGeneratorKey\x64\Debug\RandomGeneratorKey.MainWind.resources
+D:\C++_Proj\RandomGeneratorKey\RandomGeneratorKey\x64\Debug\RandomGeneratorKey.vcxproj.GenerateResource.cache
